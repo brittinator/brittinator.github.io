@@ -1,0 +1,21 @@
+body {
+  width: 960px;
+  margin: auto;
+  background-image: url("images/dark_wood.png");
+  background-color: #121111;
+  font-family: "Garamond", serif;
+  font-size: 21px;
+  color: #EBE3E3;
+}
+
+a:link {
+  text-decoration: none;
+  color: #605A0D;
+}
+a:visited {
+  color: #6A6161;
+}
+a:hover {
+  color: #F0EBEB;
+  text-decoration: underline;
+}
