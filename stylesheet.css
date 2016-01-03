@@ -1,21 +1,43 @@
 body {
-  width: 960px;
+  width: 40rem;
   margin: auto;
   background-image: url("images/dark_wood.png");
   background-color: #121111;
   font-family: "Garamond", serif;
-  font-size: 21px;
-  color: #EBE3E3;
+  font-size: 2rem;
+  color: #A18989;
+  text-align: center;
 }
 
-a:link {
-  text-decoration: none;
-  color: #605A0D;
+article  {
+  margin: auto;
 }
-a:visited {
-  color: #6A6161;
+div {
+  /*float: left;*/
 }
-a:hover {
-  color: #F0EBEB;
-  text-decoration: underline;
+
+.contacts{
+  border: .5rem #A18989 solid;
+  border-radius: 1rem;
+  display: flex;
+  height: 20rem;
 }
+
+
+.social {
+  /*width: 200px;  /* Or whatever */*/
+  height: 10rem; /* Or whatever */
+  margin: auto;  /* Magic! */
+  }
+
+  a:link {
+    text-decoration: none;
+    color: #605A0D;
+  }
+  a:visited {
+    color: #6A6161;
+  }
+  a:hover {
+    color: #F0EBEB;
+    text-decoration: underline;
+  }
