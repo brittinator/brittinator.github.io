@@ -25,9 +25,8 @@ div {
 
 
 .social {
-  /*width: 200px;  /* Or whatever */*/
-  height: 10rem; /* Or whatever */
-  margin: auto;  /* Magic! */
+  height: 10rem; 
+  margin: auto;  
   }
 
   a:link {
