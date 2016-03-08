@@ -12,9 +12,6 @@ body {
 article  {
   margin: auto;
 }
-div {
-  /*float: left;*/
-}
 
 .contacts{
   border: .5rem #A18989 solid;
