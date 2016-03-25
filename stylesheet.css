@@ -8,24 +8,19 @@ body {
   color: #A18989;
   text-align: center;
 }
-
 article  {
   margin: auto;
 }
-
 .contacts{
   border: .5rem #A18989 solid;
   border-radius: 1rem;
   display: flex;
   height: 20rem;
 }
-
-
 .social {
-  height: 10rem; 
-  margin: auto;  
+  height: 10rem;
+  margin: auto;
   }
-
   a:link {
     text-decoration: none;
     color: #605A0D;
